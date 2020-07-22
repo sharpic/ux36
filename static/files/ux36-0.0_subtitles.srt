@@ -1,0 +1,2144 @@
+1
+00:00:06,660 --> 00:00:08,580
+Hi, I'm Simon and I will
+
+2
+00:00:08,580 --> 00:00:09,330
+be taking you through
+
+3
+00:00:09,330 --> 00:00:12,930
+this UX course for this
+
+4
+00:00:12,930 --> 00:00:15,630
+next semester. So this is
+
+5
+00:00:15,900 --> 00:00:17,790
+User Experience (UX 36),
+
+6
+00:00:18,240 --> 00:00:19,080
+the reason why we call it
+
+7
+00:00:19,080 --> 00:00:20,580
+UX 36 is because it's a
+
+8
+00:00:20,580 --> 00:00:24,090
+36,000 feet view of the
+
+9
+00:00:24,090 --> 00:00:25,470
+whole user experience
+
+10
+00:00:25,470 --> 00:00:27,270
+landscape. The idea is
+
+11
+00:00:27,270 --> 00:00:28,110
+that you'll get a broad
+
+12
+00:00:28,110 --> 00:00:29,130
+overview of user
+
+13
+00:00:29,130 --> 00:00:30,390
+experience, but it won't
+
+14
+00:00:30,390 --> 00:00:32,970
+be some deep dive because
+
+15
+00:00:32,970 --> 00:00:34,230
+you'd need a whole course
+
+16
+00:00:34,230 --> 00:00:34,920
+to do that a whole
+
+17
+00:00:34,920 --> 00:00:35,880
+programme to do that, in
+
+18
+00:00:35,880 --> 00:00:39,600
+fact. So, let me welcome
+
+19
+00:00:39,600 --> 00:00:41,220
+you to this refresh
+
+20
+00:00:42,480 --> 00:00:44,610
+video. And so you might
+
+21
+00:00:44,610 --> 00:00:45,720
+be asking, Well, why are
+
+22
+00:00:45,720 --> 00:00:47,160
+we refreshing? Well,
+
+23
+00:00:47,370 --> 00:00:48,150
+obviously we're
+
+24
+00:00:48,150 --> 00:00:50,490
+refreshing for COVID-19
+
+25
+00:00:50,520 --> 00:00:51,030
+that's why you're
+
+26
+00:00:51,030 --> 00:00:52,200
+watching a video of this
+
+27
+00:00:52,200 --> 00:00:55,020
+not me in  person. To
+
+28
+00:00:55,020 --> 00:00:57,090
+refresh happens for the
+
+29
+00:00:57,090 --> 00:00:57,960
+user experience course
+
+30
+00:00:57,960 --> 00:00:58,950
+probably every year with
+
+31
+00:00:58,950 --> 00:01:00,270
+minor updates Things
+
+32
+00:01:00,270 --> 00:01:01,710
+change all the time. So
+
+33
+00:01:01,950 --> 00:01:03,270
+see really good idea to
+
+34
+00:01:03,270 --> 00:01:06,330
+be able to refresh just
+
+35
+00:01:06,330 --> 00:01:09,060
+what you're doing. But
+
+36
+00:01:09,390 --> 00:01:10,410
+it's time for a major
+
+37
+00:01:10,410 --> 00:01:11,490
+refresh. And it's been
+
+38
+00:01:11,550 --> 00:01:12,570
+time for a major refresh
+
+39
+00:01:12,570 --> 00:01:13,830
+for a year or two, I
+
+40
+00:01:13,830 --> 00:01:14,640
+thought that we could do
+
+41
+00:01:14,640 --> 00:01:15,570
+some more and add some
+
+42
+00:01:15,570 --> 00:01:16,740
+more little bits to give
+
+43
+00:01:16,740 --> 00:01:18,060
+you a good broad
+
+44
+00:01:18,060 --> 00:01:19,200
+understanding of user
+
+45
+00:01:19,380 --> 00:01:20,430
+experience and where it
+
+46
+00:01:20,430 --> 00:01:21,930
+is now. This course was
+
+47
+00:01:21,930 --> 00:01:23,430
+written six years ago,
+
+48
+00:01:23,760 --> 00:01:25,740
+things change. And so
+
+49
+00:01:25,740 --> 00:01:27,180
+some, some big updates
+
+50
+00:01:27,210 --> 00:01:28,290
+need to be need to be
+
+51
+00:01:28,290 --> 00:01:29,850
+gone through. And I did
+
+52
+00:01:29,850 --> 00:01:32,100
+plan to do this on the
+
+53
+00:01:33,060 --> 00:01:34,170
+sort of next year. So
+
+54
+00:01:34,170 --> 00:01:39,030
+next September 21-22. But
+
+55
+00:01:39,240 --> 00:01:40,770
+obviously, with COVID-19,
+
+56
+00:01:40,980 --> 00:01:42,330
+lockdown as hastened
+
+57
+00:01:42,360 --> 00:01:43,320
+these changes, so
+
+58
+00:01:43,320 --> 00:01:44,490
+therefore, it's useful to
+
+59
+00:01:44,490 --> 00:01:46,020
+just make this a gigantic
+
+60
+00:01:46,020 --> 00:01:47,730
+update all in one go. So
+
+61
+00:01:47,730 --> 00:01:48,630
+that's what we're doing.
+
+62
+00:01:49,110 --> 00:01:49,920
+It's going to be a large
+
+63
+00:01:49,920 --> 00:01:52,980
+update for the entire
+
+64
+00:01:52,980 --> 00:01:55,200
+course, for this year, so
+
+65
+00:01:55,200 --> 00:01:56,040
+you're kind of lucky that
+
+66
+00:01:56,040 --> 00:01:56,970
+you've got this entire
+
+67
+00:01:56,970 --> 00:02:00,240
+update all in one go. The
+
+68
+00:02:00,240 --> 00:02:01,290
+unit's expanded, so it's
+
+69
+00:02:01,290 --> 00:02:03,900
+become more complete. So
+
+70
+00:02:03,900 --> 00:02:05,190
+for instance, we're doing
+
+71
+00:02:05,550 --> 00:02:07,560
+things on digital
+
+72
+00:02:07,560 --> 00:02:08,640
+phenotyping, which we'll
+
+73
+00:02:08,640 --> 00:02:09,900
+get to but this wasn't
+
+74
+00:02:09,900 --> 00:02:10,830
+included in the prior
+
+75
+00:02:10,830 --> 00:02:12,270
+work, as you'll see,
+
+76
+00:02:12,480 --> 00:02:14,970
+also, the course itself
+
+77
+00:02:14,970 --> 00:02:16,500
+will be included as a
+
+78
+00:02:16,500 --> 00:02:19,770
+GitHub repo. And that's
+
+79
+00:02:19,770 --> 00:02:20,580
+because a lot of people
+
+80
+00:02:20,580 --> 00:02:21,840
+say they want to clone
+
+81
+00:02:21,840 --> 00:02:22,800
+that repo so that they
+
+82
+00:02:22,800 --> 00:02:23,910
+can use it when they
+
+83
+00:02:23,910 --> 00:02:25,500
+leave the university so
+
+84
+00:02:25,500 --> 00:02:26,940
+that the stuff doesn't go
+
+85
+00:02:26,940 --> 00:02:30,870
+away. And so therefore, I
+
+86
+00:02:30,870 --> 00:02:31,560
+thought it was best to
+
+87
+00:02:31,560 --> 00:02:32,430
+kind of make a large
+
+88
+00:02:32,430 --> 00:02:33,540
+change, you'll still be
+
+89
+00:02:33,540 --> 00:02:34,560
+doing your assignments,
+
+90
+00:02:34,560 --> 00:02:36,150
+etc, on Blackboard as
+
+91
+00:02:36,150 --> 00:02:37,530
+you're used to. But for
+
+92
+00:02:37,530 --> 00:02:40,710
+this point, the major
+
+93
+00:02:40,710 --> 00:02:42,960
+meat of the of the of the
+
+94
+00:02:42,960 --> 00:02:44,700
+update is going to be on
+
+95
+00:02:45,870 --> 00:02:47,310
+GitHub. It will be on
+
+96
+00:02:47,310 --> 00:02:48,840
+GitHub Pages for the
+
+97
+00:02:48,840 --> 00:02:49,860
+website, and then you can
+
+98
+00:02:49,860 --> 00:02:51,030
+just clone that entire
+
+99
+00:02:51,030 --> 00:02:53,340
+repo, get everything that
+
+100
+00:02:53,340 --> 00:02:54,270
+you need to get including
+
+101
+00:02:54,270 --> 00:02:58,140
+the videos etc, etc. And
+
+102
+00:02:58,470 --> 00:02:59,910
+there's also been changes
+
+103
+00:02:59,910 --> 00:03:00,990
+to The definition of what
+
+104
+00:03:00,990 --> 00:03:02,190
+user experience is, now
+
+105
+00:03:02,190 --> 00:03:03,330
+we'll get to this in more
+
+106
+00:03:03,330 --> 00:03:05,820
+detail later on, but it's
+
+107
+00:03:05,820 --> 00:03:06,840
+really important to
+
+108
+00:03:06,840 --> 00:03:09,660
+understand that we really
+
+109
+00:03:09,660 --> 00:03:11,310
+need to make sure that we
+
+110
+00:03:11,310 --> 00:03:13,080
+understand what UX is,
+
+111
+00:03:13,260 --> 00:03:14,640
+what user experience is,
+
+112
+00:03:14,850 --> 00:03:16,380
+what the user experience
+
+113
+00:03:16,410 --> 00:03:17,910
+is not what the user
+
+114
+00:03:17,910 --> 00:03:19,380
+experience designer is,
+
+115
+00:03:19,710 --> 00:03:21,000
+product design, visual
+
+116
+00:03:21,000 --> 00:03:21,900
+design. So all these
+
+117
+00:03:21,900 --> 00:03:22,800
+things have kind of
+
+118
+00:03:22,800 --> 00:03:25,740
+competing, mind space, if
+
+119
+00:03:25,740 --> 00:03:28,320
+you like, for people in
+
+120
+00:03:28,320 --> 00:03:29,730
+the area. And so it's a
+
+121
+00:03:29,730 --> 00:03:30,660
+good thing in some ways,
+
+122
+00:03:30,660 --> 00:03:31,620
+because nobody really
+
+123
+00:03:31,620 --> 00:03:32,580
+knows what it is. So we
+
+124
+00:03:32,580 --> 00:03:35,310
+can kind of make user
+
+125
+00:03:35,310 --> 00:03:37,860
+experience ours. But also
+
+126
+00:03:37,860 --> 00:03:38,850
+it can be confusing
+
+127
+00:03:38,850 --> 00:03:40,200
+unless you explicitly
+
+128
+00:03:40,410 --> 00:03:42,990
+decide to kind of
+
+129
+00:03:42,990 --> 00:03:44,280
+understand what UX is
+
+130
+00:03:44,280 --> 00:03:45,990
+define what UX is for you
+
+131
+00:03:45,990 --> 00:03:46,680
+personally.
+
+132
+00:03:50,020 --> 00:03:51,100
+Changes for version four.
+
+133
+00:03:51,100 --> 00:03:51,940
+So the reason why it's
+
+134
+00:03:51,940 --> 00:03:52,990
+version four is because
+
+135
+00:03:52,990 --> 00:03:53,830
+they we've been through a
+
+136
+00:03:53,830 --> 00:03:56,320
+number of large version
+
+137
+00:03:56,650 --> 00:03:58,960
+changes and so this is a
+
+138
+00:03:58,990 --> 00:04:00,460
+this is a main Version
+
+139
+00:04:00,460 --> 00:04:01,600
+change. But there's also
+
+140
+00:04:01,600 --> 00:04:02,440
+been lots of little
+
+141
+00:04:02,800 --> 00:04:04,960
+changes where, you know,
+
+142
+00:04:04,960 --> 00:04:06,220
+for typos and those kind
+
+143
+00:04:06,220 --> 00:04:06,850
+of things, which
+
+144
+00:04:06,850 --> 00:04:10,540
+actually, students send
+
+145
+00:04:10,540 --> 00:04:11,440
+emails about all the
+
+146
+00:04:11,440 --> 00:04:12,220
+time, you know, there's a
+
+147
+00:04:12,490 --> 00:04:13,630
+typo here. Can we change
+
+148
+00:04:13,630 --> 00:04:14,410
+this? Can we change that
+
+149
+00:04:14,410 --> 00:04:15,370
+and of course we do over
+
+150
+00:04:15,370 --> 00:04:17,620
+time. And there's some
+
+151
+00:04:17,620 --> 00:04:18,310
+reordering of the
+
+152
+00:04:18,310 --> 00:04:19,330
+material from the last
+
+153
+00:04:19,330 --> 00:04:20,320
+time because I thought
+
+154
+00:04:20,350 --> 00:04:22,300
+that it could do with a
+
+155
+00:04:22,300 --> 00:04:23,530
+refresh with these new
+
+156
+00:04:24,490 --> 00:04:25,780
+chapters that I'm adding
+
+157
+00:04:25,780 --> 00:04:26,680
+in these new lectures
+
+158
+00:04:26,680 --> 00:04:27,880
+that I'm adding some of
+
+159
+00:04:27,910 --> 00:04:28,930
+some of the material need
+
+160
+00:04:28,930 --> 00:04:31,060
+to be reordered. Some
+
+161
+00:04:31,060 --> 00:04:32,680
+changes in emphasis. So
+
+162
+00:04:32,680 --> 00:04:34,570
+for instance, I used to
+
+163
+00:04:34,570 --> 00:04:38,170
+do a full scale two hour
+
+164
+00:04:38,170 --> 00:04:40,720
+lecture on anatomy. And
+
+165
+00:04:40,720 --> 00:04:42,370
+really, you need to know
+
+166
+00:04:42,370 --> 00:04:43,210
+about anatomy, you need
+
+167
+00:04:43,210 --> 00:04:44,860
+to know that these kind
+
+168
+00:04:44,860 --> 00:04:47,230
+of aspects of the human
+
+169
+00:04:48,040 --> 00:04:49,420
+body and human behaviour
+
+170
+00:04:49,420 --> 00:04:50,860
+exist so that you can
+
+171
+00:04:50,860 --> 00:04:53,200
+write your code for them
+
+172
+00:04:53,470 --> 00:04:55,570
+better, but you don't
+
+173
+00:04:55,570 --> 00:04:56,440
+really need to know the
+
+174
+00:04:56,440 --> 00:04:57,610
+depth. So that's now gone
+
+175
+00:04:57,610 --> 00:04:59,080
+out and it's no it's kind
+
+176
+00:04:59,080 --> 00:05:02,230
+of contextual work. We've
+
+177
+00:05:02,230 --> 00:05:03,160
+got additional sections
+
+178
+00:05:03,160 --> 00:05:04,630
+on visual design, just
+
+179
+00:05:04,630 --> 00:05:05,920
+really just really to
+
+180
+00:05:06,220 --> 00:05:07,210
+give completeness so that
+
+181
+00:05:07,210 --> 00:05:07,810
+you understand what
+
+182
+00:05:07,810 --> 00:05:08,530
+again, what that is,
+
+183
+00:05:08,530 --> 00:05:09,520
+again, that's contextual.
+
+184
+00:05:09,520 --> 00:05:11,110
+So you want to kind of
+
+185
+00:05:11,110 --> 00:05:12,010
+look at it, but you don't
+
+186
+00:05:12,010 --> 00:05:13,900
+really need to have a
+
+187
+00:05:13,900 --> 00:05:14,800
+deeper understanding of
+
+188
+00:05:14,800 --> 00:05:16,030
+visual design, because
+
+189
+00:05:16,120 --> 00:05:16,750
+you're not visual
+
+190
+00:05:16,750 --> 00:05:18,190
+designers. You know, we
+
+191
+00:05:20,800 --> 00:05:22,390
+order that service in. So
+
+192
+00:05:22,390 --> 00:05:23,380
+we don't really need to
+
+193
+00:05:23,410 --> 00:05:26,800
+think about that. There
+
+194
+00:05:26,800 --> 00:05:27,910
+are sections, additional
+
+195
+00:05:27,910 --> 00:05:30,130
+sections on UX design,
+
+196
+00:05:30,160 --> 00:05:31,330
+what graphic design is
+
+197
+00:05:31,330 --> 00:05:32,170
+the nature of product
+
+198
+00:05:32,170 --> 00:05:33,100
+design, these kinds of
+
+199
+00:05:33,100 --> 00:05:34,690
+things. And I've also
+
+200
+00:05:34,690 --> 00:05:35,860
+reintegrated the UX
+
+201
+00:05:35,860 --> 00:05:37,330
+development overview now,
+
+202
+00:05:37,570 --> 00:05:39,550
+in previous years, I
+
+203
+00:05:39,550 --> 00:05:41,170
+started off with this
+
+204
+00:05:41,170 --> 00:05:41,950
+thing called developing
+
+205
+00:05:41,950 --> 00:05:42,790
+under the umbrella which
+
+206
+00:05:42,790 --> 00:05:43,930
+was really about how to
+
+207
+00:05:43,930 --> 00:05:44,800
+develop for user
+
+208
+00:05:44,800 --> 00:05:46,750
+experience if you were a
+
+209
+00:05:46,750 --> 00:05:49,240
+developer, but also, how
+
+210
+00:05:49,240 --> 00:05:50,260
+you might speak to
+
+211
+00:05:50,260 --> 00:05:51,190
+developers about best
+
+212
+00:05:51,190 --> 00:05:52,000
+practice for user
+
+213
+00:05:52,000 --> 00:05:53,110
+experience when it comes
+
+214
+00:05:53,110 --> 00:05:54,250
+to development. You know,
+
+215
+00:05:54,280 --> 00:05:55,780
+because it's a complete
+
+216
+00:05:55,780 --> 00:05:56,740
+system. Obviously, the
+
+217
+00:05:56,740 --> 00:05:57,580
+Agile process is a
+
+218
+00:05:57,580 --> 00:06:00,370
+complete system. Remove
+
+219
+00:06:00,370 --> 00:06:01,180
+that, because I thought,
+
+220
+00:06:01,180 --> 00:06:02,110
+well, actually, you guys
+
+221
+00:06:02,110 --> 00:06:03,160
+already are computer
+
+222
+00:06:03,160 --> 00:06:03,970
+scientists already
+
+223
+00:06:03,970 --> 00:06:04,690
+software engineers, you
+
+224
+00:06:04,690 --> 00:06:05,980
+know, you know all this
+
+225
+00:06:05,980 --> 00:06:07,210
+information. But then I
+
+226
+00:06:07,210 --> 00:06:08,440
+was asked to bring it
+
+227
+00:06:08,440 --> 00:06:10,090
+back after a couple of
+
+228
+00:06:10,090 --> 00:06:11,050
+years. And also, I've
+
+229
+00:06:11,050 --> 00:06:12,010
+updated it with some
+
+230
+00:06:12,010 --> 00:06:13,270
+additional aspects of
+
+231
+00:06:16,270 --> 00:06:17,860
+MVC. So model view
+
+232
+00:06:17,860 --> 00:06:19,690
+controller architectures,
+
+233
+00:06:19,690 --> 00:06:20,950
+but more importantly of
+
+234
+00:06:20,950 --> 00:06:21,820
+micro services
+
+235
+00:06:21,820 --> 00:06:23,140
+architectures and DevOps.
+
+236
+00:06:23,410 --> 00:06:24,160
+I decided to bring this
+
+237
+00:06:24,160 --> 00:06:24,940
+back, because these are
+
+238
+00:06:24,940 --> 00:06:26,440
+awesome ways of
+
+239
+00:06:27,310 --> 00:06:28,150
+integrating user
+
+240
+00:06:28,150 --> 00:06:29,110
+experience into
+
+241
+00:06:29,110 --> 00:06:30,190
+continuous development
+
+242
+00:06:30,190 --> 00:06:31,570
+life cycles, and also
+
+243
+00:06:31,570 --> 00:06:32,950
+into the architectures
+
+244
+00:06:32,950 --> 00:06:34,300
+that arise from those.
+
+245
+00:06:34,870 --> 00:06:36,190
+You'll see that in the UX
+
+246
+00:06:36,190 --> 00:06:37,150
+development part, we're
+
+247
+00:06:37,150 --> 00:06:38,260
+talking about separation
+
+248
+00:06:38,260 --> 00:06:39,310
+of concerns, and that
+
+249
+00:06:39,310 --> 00:06:40,570
+separation of concerns is
+
+250
+00:06:40,570 --> 00:06:42,100
+really important for us
+
+251
+00:06:42,100 --> 00:06:44,560
+to to understand. Now.
+
+252
+00:06:45,670 --> 00:06:47,680
+That's all come back. And
+
+253
+00:06:47,680 --> 00:06:48,430
+so we'll be going through
+
+254
+00:06:48,430 --> 00:06:49,390
+that at the very end. But
+
+255
+00:06:49,390 --> 00:06:50,590
+also we've got some other
+
+256
+00:06:50,590 --> 00:06:54,220
+aspects on prototyping
+
+257
+00:06:54,340 --> 00:06:55,120
+because people wanted a
+
+258
+00:06:55,120 --> 00:06:56,050
+bit more or to understand
+
+259
+00:06:56,050 --> 00:06:57,130
+a bit more on prototyping
+
+260
+00:06:57,130 --> 00:06:57,970
+what that is and rapid
+
+261
+00:06:57,970 --> 00:06:58,900
+application development
+
+262
+00:06:58,900 --> 00:06:59,710
+what that is and how it
+
+263
+00:06:59,710 --> 00:07:01,360
+fits in. There's also
+
+264
+00:07:01,360 --> 00:07:02,740
+some light statistics and
+
+265
+00:07:02,740 --> 00:07:03,430
+when I say light
+
+266
+00:07:03,430 --> 00:07:04,450
+statistics, I mean very
+
+267
+00:07:04,450 --> 00:07:05,440
+light statistics. It's
+
+268
+00:07:05,440 --> 00:07:07,240
+mostly me ranting. Okay,
+
+269
+00:07:07,240 --> 00:07:08,530
+so do not worry about
+
+270
+00:07:08,530 --> 00:07:09,520
+this. It's mostly me
+
+271
+00:07:10,240 --> 00:07:11,560
+talking a lot about
+
+272
+00:07:11,560 --> 00:07:12,790
+statistical analysis and
+
+273
+00:07:12,790 --> 00:07:14,140
+how we should be doing it
+
+274
+00:07:14,140 --> 00:07:15,460
+and how you should make
+
+275
+00:07:15,460 --> 00:07:16,300
+sure that you understand
+
+276
+00:07:16,300 --> 00:07:17,590
+at least some aspects of
+
+277
+00:07:17,590 --> 00:07:18,580
+stats, even if there are
+
+278
+00:07:18,580 --> 00:07:20,200
+only a descriptive stats.
+
+279
+00:07:21,880 --> 00:07:23,710
+And there's a changing
+
+280
+00:07:23,740 --> 00:07:25,090
+topic title. So some of
+
+281
+00:07:25,090 --> 00:07:26,170
+the topic titles were a
+
+282
+00:07:26,170 --> 00:07:32,050
+little bit obscure. So
+
+283
+00:07:32,050 --> 00:07:32,860
+for instance, you know,
+
+284
+00:07:32,860 --> 00:07:33,850
+developing the umbrella,
+
+285
+00:07:33,850 --> 00:07:34,420
+what does that really
+
+286
+00:07:34,420 --> 00:07:35,680
+mean? So, you know, we've
+
+287
+00:07:35,680 --> 00:07:36,400
+changed it to make it
+
+288
+00:07:36,400 --> 00:07:38,620
+more explicit. Obviously,
+
+289
+00:07:38,620 --> 00:07:39,730
+there's video lectures,
+
+290
+00:07:39,760 --> 00:07:40,780
+and there's also audio
+
+291
+00:07:40,780 --> 00:07:42,700
+podcasts. Now, I'm hoping
+
+292
+00:07:42,700 --> 00:07:43,300
+that we're going to put
+
+293
+00:07:43,300 --> 00:07:44,140
+these video lectures in
+
+294
+00:07:44,140 --> 00:07:45,370
+audio podcast, as well as
+
+295
+00:07:45,370 --> 00:07:47,530
+being in the as well as
+
+296
+00:07:47,530 --> 00:07:48,850
+been in the GitHub repo,
+
+297
+00:07:49,090 --> 00:07:50,140
+some way to kind of
+
+298
+00:07:50,170 --> 00:07:53,260
+integrate them into third
+
+299
+00:07:53,260 --> 00:07:54,700
+party systems so that you
+
+300
+00:07:54,700 --> 00:07:55,720
+can actually listen to an
+
+301
+00:07:55,720 --> 00:07:56,740
+audio podcast on your
+
+302
+00:07:56,740 --> 00:07:58,180
+normal podcasting system.
+
+303
+00:07:58,330 --> 00:07:59,080
+You don't have to do
+
+304
+00:07:59,080 --> 00:07:59,890
+anything different. It
+
+305
+00:07:59,890 --> 00:08:00,640
+should just integrate
+
+306
+00:08:00,640 --> 00:08:01,630
+into your life really,
+
+307
+00:08:02,440 --> 00:08:04,090
+the big change is that
+
+308
+00:08:04,300 --> 00:08:05,020
+we're going to be
+
+309
+00:08:05,020 --> 00:08:06,820
+removing the exam as the
+
+310
+00:08:06,850 --> 00:08:08,710
+key assessment method, or
+
+311
+00:08:08,710 --> 00:08:09,880
+at least the exam at the
+
+312
+00:08:09,880 --> 00:08:10,870
+end of the course that
+
+313
+00:08:10,870 --> 00:08:12,250
+you do in a normal exam
+
+314
+00:08:12,250 --> 00:08:13,120
+setting what we all think
+
+315
+00:08:13,120 --> 00:08:17,170
+of as an exam. Okay, so
+
+316
+00:08:17,410 --> 00:08:18,580
+that's the main thing
+
+317
+00:08:18,730 --> 00:08:20,080
+that that kind of changes
+
+318
+00:08:20,080 --> 00:08:20,500
+here.
+
+319
+00:08:23,030 --> 00:08:24,890
+And what we're going to
+
+320
+00:08:24,890 --> 00:08:25,670
+have and we'll get to
+
+321
+00:08:25,670 --> 00:08:27,740
+this in the welcome talk
+
+322
+00:08:27,740 --> 00:08:28,550
+that I'll be giving
+
+323
+00:08:29,180 --> 00:08:31,340
+shortly, when we get to
+
+324
+00:08:31,370 --> 00:08:34,880
+is a an exam that is kind
+
+325
+00:08:34,880 --> 00:08:35,750
+of more blended into the
+
+326
+00:08:35,750 --> 00:08:36,860
+course. So we've we've
+
+327
+00:08:36,860 --> 00:08:38,210
+moved, we used to have
+
+328
+00:08:38,210 --> 00:08:39,410
+three assignments now we
+
+329
+00:08:39,410 --> 00:08:41,000
+have one formative
+
+330
+00:08:41,000 --> 00:08:42,080
+assignment, two summative
+
+331
+00:08:42,080 --> 00:08:43,130
+assignments, those are
+
+332
+00:08:43,130 --> 00:08:44,570
+open book, you get the
+
+333
+00:08:44,570 --> 00:08:45,440
+assignment beforehand,
+
+334
+00:08:45,440 --> 00:08:46,940
+everything's good. We
+
+335
+00:08:46,940 --> 00:08:48,860
+then we then in the exam
+
+336
+00:08:48,860 --> 00:08:49,640
+used to have some
+
+337
+00:08:49,640 --> 00:08:50,330
+multiple choice
+
+338
+00:08:50,330 --> 00:08:51,920
+questions, and we also
+
+339
+00:08:51,920 --> 00:08:54,440
+used to have some kind of
+
+340
+00:08:54,470 --> 00:08:55,610
+shorter answer type
+
+341
+00:08:55,610 --> 00:08:56,750
+questions. These have
+
+342
+00:08:56,750 --> 00:08:57,800
+been taken from the old
+
+343
+00:08:57,800 --> 00:08:59,480
+exam, put together into
+
+344
+00:08:59,480 --> 00:09:02,180
+one assessment. And
+
+345
+00:09:02,180 --> 00:09:03,350
+that's also an assessment
+
+346
+00:09:03,350 --> 00:09:04,730
+now, that gets delivered
+
+347
+00:09:04,730 --> 00:09:06,380
+later on in the year. And
+
+348
+00:09:06,410 --> 00:09:07,550
+it comes from a question
+
+349
+00:09:07,550 --> 00:09:09,590
+bank. So you'll need to
+
+350
+00:09:09,590 --> 00:09:12,170
+know everything,
+
+351
+00:09:13,250 --> 00:09:13,970
+everybody will be
+
+352
+00:09:13,970 --> 00:09:15,470
+delivered a different
+
+353
+00:09:15,470 --> 00:09:17,060
+kind of exam a different
+
+354
+00:09:17,060 --> 00:09:18,530
+set of questions, even
+
+355
+00:09:18,530 --> 00:09:18,860
+though they're all
+
+356
+00:09:18,860 --> 00:09:19,730
+multiple choice, you'll
+
+357
+00:09:19,730 --> 00:09:21,680
+get a random set from the
+
+358
+00:09:21,680 --> 00:09:22,460
+question bank and there's
+
+359
+00:09:22,460 --> 00:09:23,780
+about 150 questions in
+
+360
+00:09:23,780 --> 00:09:25,040
+the question bank, if
+
+361
+00:09:25,040 --> 00:09:25,550
+you've managed to
+
+362
+00:09:25,550 --> 00:09:27,020
+memorise them all great,
+
+363
+00:09:27,890 --> 00:09:29,240
+but the reality is that
+
+364
+00:09:29,270 --> 00:09:30,320
+that's unlikely; so
+
+365
+00:09:30,440 --> 00:09:31,250
+you'll still need to have
+
+366
+00:09:31,250 --> 00:09:32,330
+some understanding of the
+
+367
+00:09:32,330 --> 00:09:33,410
+user experience behind
+
+368
+00:09:33,410 --> 00:09:37,130
+it. Then we've also got a
+
+369
+00:09:37,160 --> 00:09:39,950
+larger assignment type of
+
+370
+00:09:42,650 --> 00:09:44,540
+sessional, if you like,
+
+371
+00:09:44,540 --> 00:09:46,190
+exam, whereby you're
+
+372
+00:09:46,190 --> 00:09:46,970
+doing it remotely, you're
+
+373
+00:09:46,970 --> 00:09:48,020
+doing it asynchronously,
+
+374
+00:09:48,020 --> 00:09:49,430
+you'll have a set period
+
+375
+00:09:49,430 --> 00:09:50,510
+of time to do that in.
+
+376
+00:09:50,780 --> 00:09:53,300
+But again, the questions
+
+377
+00:09:53,300 --> 00:09:54,110
+are all different, you'll
+
+378
+00:09:54,110 --> 00:09:54,890
+be presented with
+
+379
+00:09:54,890 --> 00:09:55,850
+different questions.
+
+380
+00:09:59,180 --> 00:10:00,560
+So this update, as I say,
+
+381
+00:10:00,560 --> 00:10:01,610
+is a major update that
+
+382
+00:10:01,610 --> 00:10:05,180
+COVID-19 forced. It's
+
+383
+00:10:05,180 --> 00:10:06,020
+been put off because it
+
+384
+00:10:06,020 --> 00:10:06,830
+was a large amount of
+
+385
+00:10:06,830 --> 00:10:07,970
+work and I wanted to do
+
+386
+00:10:07,970 --> 00:10:09,140
+this in a graduated step,
+
+387
+00:10:09,140 --> 00:10:10,670
+but because we're all you
+
+388
+00:10:10,670 --> 00:10:12,230
+know, sitting around in
+
+389
+00:10:12,230 --> 00:10:13,700
+our homes in lockdown,
+
+390
+00:10:13,880 --> 00:10:16,100
+then I've got quite a lot
+
+391
+00:10:16,100 --> 00:10:17,360
+of time now to do this.
+
+392
+00:10:17,420 --> 00:10:18,410
+Now, of course, I'm not
+
+393
+00:10:18,410 --> 00:10:19,580
+really in a swanky
+
+394
+00:10:19,580 --> 00:10:20,810
+lecture theatre come
+
+395
+00:10:20,810 --> 00:10:22,460
+conference room, I'm here
+
+396
+00:10:22,460 --> 00:10:23,600
+in the front room of my
+
+397
+00:10:23,600 --> 00:10:24,920
+house, it's the front box
+
+398
+00:10:24,920 --> 00:10:26,420
+bedroom trying to do this
+
+399
+00:10:26,420 --> 00:10:27,860
+in front of a green
+
+400
+00:10:27,860 --> 00:10:29,660
+screen. It's just me in
+
+401
+00:10:29,660 --> 00:10:30,650
+front of a green screen.
+
+402
+00:10:30,710 --> 00:10:31,670
+There's nothing to see
+
+403
+00:10:31,670 --> 00:10:33,320
+here. Okay, let's get
+
+404
+00:10:33,320 --> 00:10:34,820
+back to the lecture.
+
+405
+00:10:35,980 --> 00:10:38,620
+So the assignments and
+
+406
+00:10:38,620 --> 00:10:40,870
+testing have changed. And
+
+407
+00:10:40,870 --> 00:10:42,400
+reality is that even
+
+408
+00:10:42,400 --> 00:10:43,270
+though we've been forced
+
+409
+00:10:43,270 --> 00:10:44,530
+to make these changes by
+
+410
+00:10:44,530 --> 00:10:46,090
+the by the situation,
+
+411
+00:10:46,420 --> 00:10:48,130
+it's better, that better.
+
+412
+00:10:48,400 --> 00:10:49,000
+They're the kind of
+
+413
+00:10:49,000 --> 00:10:49,900
+assignments and testing
+
+414
+00:10:49,900 --> 00:10:50,740
+that I've wanted to do
+
+415
+00:10:50,740 --> 00:10:51,580
+for a long time but
+
+416
+00:10:51,580 --> 00:10:52,420
+couldn't get the approval
+
+417
+00:10:52,420 --> 00:10:55,120
+for now all bets are off,
+
+418
+00:10:55,270 --> 00:10:56,290
+we've suddenly got the
+
+419
+00:10:56,440 --> 00:10:58,540
+got what we need. So I'm
+
+420
+00:10:58,540 --> 00:10:59,920
+really pleased that that
+
+421
+00:11:00,010 --> 00:11:00,940
+we've been able to get
+
+422
+00:11:00,940 --> 00:11:01,690
+these assignments and
+
+423
+00:11:01,690 --> 00:11:03,610
+testing changes through.
+
+424
+00:11:04,630 --> 00:11:05,740
+And they're just the kind
+
+425
+00:11:05,740 --> 00:11:06,760
+of things we wanted. So
+
+426
+00:11:07,330 --> 00:11:07,960
+this is going to be
+
+427
+00:11:07,960 --> 00:11:10,480
+really good. Now, we
+
+428
+00:11:10,510 --> 00:11:11,890
+won't be physically co
+
+429
+00:11:11,890 --> 00:11:12,850
+present, so we won't be
+
+430
+00:11:12,850 --> 00:11:13,930
+in the same room. I
+
+431
+00:11:13,930 --> 00:11:14,860
+imagine we wouldn't be
+
+432
+00:11:14,860 --> 00:11:15,880
+anywhere at this point in
+
+433
+00:11:15,880 --> 00:11:17,200
+the same room. But we'll
+
+434
+00:11:17,200 --> 00:11:17,830
+have two different
+
+435
+00:11:17,830 --> 00:11:18,310
+things. We'll have
+
+436
+00:11:18,340 --> 00:11:19,900
+asynchronous work, and
+
+437
+00:11:19,900 --> 00:11:20,980
+we'll have synchronous
+
+438
+00:11:20,980 --> 00:11:22,540
+work. So asynchronous
+
+439
+00:11:22,540 --> 00:11:23,890
+means that it's this kind
+
+440
+00:11:23,890 --> 00:11:25,240
+of thing, video lectures.
+
+441
+00:11:25,840 --> 00:11:27,070
+They'll also be
+
+442
+00:11:29,980 --> 00:11:31,600
+asynchronous discussion
+
+443
+00:11:31,600 --> 00:11:33,250
+topics via discord
+
+444
+00:11:33,280 --> 00:11:35,350
+probably. So you will
+
+445
+00:11:35,350 --> 00:11:36,580
+leave questions that you
+
+446
+00:11:36,580 --> 00:11:38,470
+need answering etc. and I
+
+447
+00:11:38,470 --> 00:11:40,060
+will answer them over the
+
+448
+00:11:40,060 --> 00:11:40,840
+period of week but we
+
+449
+00:11:40,840 --> 00:11:43,000
+won't be on the platform
+
+450
+00:11:43,030 --> 00:11:43,690
+probably at the same
+
+451
+00:11:43,690 --> 00:11:45,970
+time. And then we'll have
+
+452
+00:11:45,970 --> 00:11:48,310
+synchronous sort of
+
+453
+00:11:49,090 --> 00:11:50,260
+lectures. So those
+
+454
+00:11:50,260 --> 00:11:51,220
+synchronous lectures will
+
+455
+00:11:51,220 --> 00:11:52,120
+probably be occurring
+
+456
+00:11:52,120 --> 00:11:53,230
+about once a week.
+
+457
+00:11:53,800 --> 00:11:56,140
+They'll be us via zoom or
+
+458
+00:11:56,140 --> 00:11:57,100
+something like this.
+
+459
+00:11:57,520 --> 00:11:58,840
+We'll be going through
+
+460
+00:11:59,410 --> 00:12:00,640
+example, But also
+
+461
+00:12:00,640 --> 00:12:01,540
+there'll be discussion
+
+462
+00:12:01,540 --> 00:12:02,830
+there. And we'll see why
+
+463
+00:12:03,310 --> 00:12:04,990
+you can't skip these or
+
+464
+00:12:05,020 --> 00:12:05,890
+that you can't get good
+
+465
+00:12:05,890 --> 00:12:06,820
+marks if you do skip
+
+466
+00:12:06,820 --> 00:12:08,440
+them. So just think about
+
+467
+00:12:08,440 --> 00:12:10,540
+that. And these will be
+
+468
+00:12:10,540 --> 00:12:12,670
+live, and they'll be face
+
+469
+00:12:12,670 --> 00:12:13,330
+to face and there won't
+
+470
+00:12:13,330 --> 00:12:14,350
+be recorded because
+
+471
+00:12:14,350 --> 00:12:15,460
+they're more about you
+
+472
+00:12:15,460 --> 00:12:16,780
+guys participating if you
+
+473
+00:12:16,780 --> 00:12:19,300
+really don't come then
+
+474
+00:12:19,300 --> 00:12:21,280
+the core components of
+
+475
+00:12:21,280 --> 00:12:22,660
+the of the work, which is
+
+476
+00:12:22,660 --> 00:12:24,010
+already pre recorded,
+
+477
+00:12:24,190 --> 00:12:26,530
+like this, should be fine
+
+478
+00:12:26,530 --> 00:12:27,820
+for you to understand
+
+479
+00:12:27,820 --> 00:12:28,450
+what's happening.
+
+480
+00:12:29,980 --> 00:12:30,670
+So there'll be a
+
+481
+00:12:30,670 --> 00:12:32,770
+synchronous open surgery
+
+482
+00:12:32,770 --> 00:12:33,850
+for one hour a week, it
+
+483
+00:12:33,850 --> 00:12:36,070
+could be via zoom. It
+
+484
+00:12:36,070 --> 00:12:36,940
+will be once a week, as I
+
+485
+00:12:36,940 --> 00:12:39,520
+say, and it means that we
+
+486
+00:12:39,520 --> 00:12:41,650
+can actually chat face to
+
+487
+00:12:41,650 --> 00:12:43,930
+face. Now, you won't need
+
+488
+00:12:43,930 --> 00:12:46,990
+to be there if you don't
+
+489
+00:12:46,990 --> 00:12:50,650
+want to be simply. You
+
+490
+00:12:50,650 --> 00:12:52,030
+don't need to be at the
+
+491
+00:12:52,030 --> 00:12:53,500
+surgery. That's just a
+
+492
+00:12:53,500 --> 00:12:55,120
+spot where if you feel
+
+493
+00:12:55,120 --> 00:12:55,630
+that you need some
+
+494
+00:12:55,630 --> 00:12:56,590
+feedback, you need
+
+495
+00:12:56,710 --> 00:12:57,310
+something that's
+
+496
+00:12:57,310 --> 00:12:58,210
+synchronous, something
+
+497
+00:12:58,210 --> 00:12:59,530
+that is where we're
+
+498
+00:12:59,530 --> 00:13:01,330
+talking to Together, then
+
+499
+00:13:01,330 --> 00:13:02,410
+that's fine, you can turn
+
+500
+00:13:02,410 --> 00:13:03,730
+up to that. But it's you
+
+501
+00:13:03,730 --> 00:13:04,690
+don't have to go there.
+
+502
+00:13:04,690 --> 00:13:05,620
+It's really just for
+
+503
+00:13:05,620 --> 00:13:06,790
+problems or to go through
+
+504
+00:13:06,790 --> 00:13:07,990
+examples or if there's
+
+505
+00:13:07,990 --> 00:13:08,620
+something you didn't
+
+506
+00:13:08,620 --> 00:13:10,840
+quite understand. Then we
+
+507
+00:13:10,840 --> 00:13:12,700
+can go and talk about it
+
+508
+00:13:12,730 --> 00:13:14,140
+on the on that zoom call,
+
+509
+00:13:14,350 --> 00:13:15,100
+and I'll be there you
+
+510
+00:13:15,100 --> 00:13:16,810
+just, you'll get the code
+
+511
+00:13:16,810 --> 00:13:17,890
+sign-in when you like it
+
+512
+00:13:17,920 --> 00:13:18,880
+anytime you write within
+
+513
+00:13:18,880 --> 00:13:20,200
+that one hour, but it
+
+514
+00:13:20,200 --> 00:13:21,640
+will finish on the hour,
+
+515
+00:13:21,640 --> 00:13:22,480
+so you know, you need to
+
+516
+00:13:22,480 --> 00:13:25,630
+come beforehand. Don't
+
+517
+00:13:25,630 --> 00:13:26,260
+leave it till the very
+
+518
+00:13:26,260 --> 00:13:27,010
+last moment.
+
+519
+00:13:30,820 --> 00:13:31,690
+Okay, so we're done.
+
+520
+00:13:32,020 --> 00:13:32,620
+You'll notice that
+
+521
+00:13:32,620 --> 00:13:33,370
+there's a transcription
+
+522
+00:13:33,370 --> 00:13:34,090
+available with this
+
+523
+00:13:34,090 --> 00:13:35,740
+video, the transcription
+
+524
+00:13:35,740 --> 00:13:37,030
+has been made also into
+
+525
+00:13:37,030 --> 00:13:38,530
+subtitles, and there'll
+
+526
+00:13:38,530 --> 00:13:39,580
+be a transcript and
+
+527
+00:13:39,580 --> 00:13:41,380
+subtitles for every video
+
+528
+00:13:41,380 --> 00:13:42,580
+that you see. So make
+
+529
+00:13:42,580 --> 00:13:43,570
+sure if you need those
+
+530
+00:13:44,020 --> 00:13:46,480
+subtitles, make sure that
+
+531
+00:13:46,480 --> 00:13:47,140
+you switch them on in
+
+532
+00:13:47,140 --> 00:13:48,520
+your particular video
+
+533
+00:13:49,870 --> 00:13:52,960
+viewer. Okay, so, have a
+
+534
+00:13:52,960 --> 00:13:55,420
+good rest of your week,
+
+535
+00:13:55,450 --> 00:13:57,010
+and we'll see you in the
+
+536
+00:13:57,040 --> 00:13:57,520
+next one.
+

@@ -1,0 +1,1976 @@
+1
+00:00:09,900 --> 00:00:12,210
+Welcome again to User Experience
+
+2
+00:00:12,600 --> 00:00:14,610
+UX36. And this is the assignment
+
+3
+00:00:14,610 --> 00:00:15,810
+overview. So it's still
+
+4
+00:00:15,810 --> 00:00:17,310
+logistical, but I want to tell
+
+5
+00:00:17,310 --> 00:00:18,360
+you about the assignments, why
+
+6
+00:00:18,360 --> 00:00:19,860
+they were created, and really,
+
+7
+00:00:21,030 --> 00:00:22,200
+why they were put together and
+
+8
+00:00:22,200 --> 00:00:24,840
+what they're there to test. So
+
+9
+00:00:27,030 --> 00:00:28,260
+there's two types of assignments
+
+10
+00:00:28,260 --> 00:00:29,220
+that we'll be working with.
+
+11
+00:00:29,220 --> 00:00:29,910
+There's the formative
+
+12
+00:00:29,910 --> 00:00:31,380
+assignment, which is for
+
+13
+00:00:31,380 --> 00:00:33,090
+feedback only. So you don't have
+
+14
+00:00:33,090 --> 00:00:34,800
+to do it. It's optional. If you
+
+15
+00:00:34,800 --> 00:00:36,060
+don't want to do it, you don't
+
+16
+00:00:36,060 --> 00:00:39,240
+need to, but you must do it
+
+17
+00:00:39,240 --> 00:00:41,100
+within the allocated time. We
+
+18
+00:00:41,100 --> 00:00:42,510
+can't do it afterwards because
+
+19
+00:00:42,510 --> 00:00:44,100
+we can't reallocate the TA
+
+20
+00:00:44,100 --> 00:00:46,230
+resources to help with the
+
+21
+00:00:46,230 --> 00:00:47,880
+marking and the feedback to you.
+
+22
+00:00:48,210 --> 00:00:50,370
+So, you must if you want to do
+
+23
+00:00:50,370 --> 00:00:51,300
+it, you must do it within the
+
+24
+00:00:51,300 --> 00:00:53,760
+first period of time that we
+
+25
+00:00:53,760 --> 00:00:56,850
+talked about in the lectures in
+
+26
+00:00:56,850 --> 00:01:00,600
+the video lectures. After that,
+
+27
+00:01:00,600 --> 00:01:01,410
+there's two summative
+
+28
+00:01:01,410 --> 00:01:02,880
+assignments. So after you've had
+
+29
+00:01:02,880 --> 00:01:04,260
+your feedback, you can do the
+
+30
+00:01:04,260 --> 00:01:05,490
+two summative assignments which
+
+31
+00:01:05,490 --> 00:01:06,660
+contribute to the overall mark,
+
+32
+00:01:06,660 --> 00:01:08,940
+they're 15% each. So it's
+
+33
+00:01:08,940 --> 00:01:10,410
+reasonable to get those under
+
+34
+00:01:10,410 --> 00:01:12,150
+your belts before you go into
+
+35
+00:01:12,150 --> 00:01:18,300
+the main tests, if you like in
+
+36
+00:01:18,300 --> 00:01:20,010
+the main part of the work now
+
+37
+00:01:21,330 --> 00:01:23,580
+the assignments themselves, you
+
+38
+00:01:23,580 --> 00:01:24,900
+should, you should try and do
+
+39
+00:01:24,900 --> 00:01:28,980
+them. I think trying to get them
+
+40
+00:01:28,980 --> 00:01:31,170
+all done by the end of reading
+
+41
+00:01:31,170 --> 00:01:35,220
+week, okay, so you'll get a good
+
+42
+00:01:35,370 --> 00:01:36,990
+idea of what you need to do and
+
+43
+00:01:36,990 --> 00:01:38,520
+how you need to approach them by
+
+44
+00:01:38,520 --> 00:01:41,310
+coming to the discussion
+
+45
+00:01:41,310 --> 00:01:44,520
+lectures and the the kind of the
+
+46
+00:01:44,520 --> 00:01:46,200
+consolidation lectures and you
+
+47
+00:01:46,200 --> 00:01:48,540
+should be able to do them, you
+
+48
+00:01:48,540 --> 00:01:50,070
+know, probably within the first
+
+49
+00:01:50,070 --> 00:01:52,830
+six to seven weeks, okay? So try
+
+50
+00:01:52,830 --> 00:01:54,120
+and get those out of the way if
+
+51
+00:01:54,120 --> 00:01:55,470
+you possibly can and if you feel
+
+52
+00:01:55,470 --> 00:01:56,850
+uncomfortable with it, that's
+
+53
+00:01:56,850 --> 00:01:57,930
+what then that's what they're
+
+54
+00:01:57,930 --> 00:02:00,990
+meant to be there for. Now, the
+
+55
+00:02:00,990 --> 00:02:03,120
+first one is the formative
+
+56
+00:02:03,120 --> 00:02:04,890
+assignment, discussion topic.
+
+57
+00:02:04,890 --> 00:02:05,790
+This is understanding and
+
+58
+00:02:05,790 --> 00:02:08,100
+scoping and defining the user
+
+59
+00:02:08,100 --> 00:02:09,780
+experience. And the reason why
+
+60
+00:02:09,780 --> 00:02:11,550
+this was created this paper was
+
+61
+00:02:11,580 --> 00:02:14,460
+selected is because it really
+
+62
+00:02:14,460 --> 00:02:16,920
+shows that in 2009, you'll find
+
+63
+00:02:16,920 --> 00:02:18,300
+out that even today, nobody
+
+64
+00:02:18,300 --> 00:02:20,130
+really knows what UX is. So the
+
+65
+00:02:20,130 --> 00:02:21,840
+good point is, if you don't know
+
+66
+00:02:21,840 --> 00:02:23,910
+what it is, I don't know what it
+
+67
+00:02:23,910 --> 00:02:24,720
+is we're making our own
+
+68
+00:02:24,720 --> 00:02:26,460
+definitions. The good thing is
+
+69
+00:02:26,640 --> 00:02:29,490
+that nobody's wrong. But we do
+
+70
+00:02:29,490 --> 00:02:30,840
+need to define the terms when
+
+71
+00:02:30,840 --> 00:02:31,950
+we're in discussions with other
+
+72
+00:02:31,950 --> 00:02:33,600
+people of what we actually think
+
+73
+00:02:33,900 --> 00:02:37,200
+this is, this is about. So this
+
+74
+00:02:37,590 --> 00:02:39,660
+survey approaches is a way of
+
+75
+00:02:39,660 --> 00:02:42,240
+kind of understanding what UX
+
+76
+00:02:42,240 --> 00:02:44,130
+is. And so what happened was
+
+77
+00:02:44,130 --> 00:02:47,670
+that Effie Law, who is the the,
+
+78
+00:02:47,760 --> 00:02:50,130
+the main author of this, went to
+
+79
+00:02:50,130 --> 00:02:51,600
+the CHI conference, which is a
+
+80
+00:02:51,600 --> 00:02:53,910
+major conference for Computer
+
+81
+00:02:53,910 --> 00:02:55,740
+Human Interaction, and she
+
+82
+00:02:55,950 --> 00:02:58,050
+wanted to ask the people who
+
+83
+00:02:58,050 --> 00:02:59,100
+came there what they thought it
+
+84
+00:02:59,100 --> 00:03:00,060
+was, or at least there was
+
+85
+00:03:00,060 --> 00:03:01,080
+questionnaire that they were
+
+86
+00:03:01,080 --> 00:03:03,630
+able to rank what, with
+
+87
+00:03:03,630 --> 00:03:04,830
+agreement or disagreement rank,
+
+88
+00:03:07,080 --> 00:03:08,580
+what they thought it was really
+
+89
+00:03:08,580 --> 00:03:11,490
+about on a number of different
+
+90
+00:03:12,270 --> 00:03:13,410
+metrics and a number of
+
+91
+00:03:13,410 --> 00:03:16,800
+different axis. And so I think
+
+92
+00:03:16,800 --> 00:03:18,870
+it's important for us to kind of
+
+93
+00:03:18,900 --> 00:03:20,070
+read through this to understand
+
+94
+00:03:20,070 --> 00:03:22,890
+what the, what the outcomes were
+
+95
+00:03:22,890 --> 00:03:26,070
+and also what the negative
+
+96
+00:03:26,070 --> 00:03:27,750
+points were, really what were
+
+97
+00:03:27,750 --> 00:03:30,300
+the failings of this survey
+
+98
+00:03:30,300 --> 00:03:33,060
+approach. And we do use this as
+
+99
+00:03:33,060 --> 00:03:34,770
+a critically important part part
+
+100
+00:03:34,770 --> 00:03:36,840
+of the course. So let's not get
+
+101
+00:03:36,840 --> 00:03:38,250
+serious, and let's not, you
+
+102
+00:03:38,250 --> 00:03:40,140
+know, stray too far that this is
+
+103
+00:03:40,140 --> 00:03:42,120
+a good bit of work. But it's a
+
+104
+00:03:42,120 --> 00:03:43,710
+good idea for us to chat about
+
+105
+00:03:43,710 --> 00:03:45,300
+this in the context of this
+
+106
+00:03:45,300 --> 00:03:46,770
+formative assignment so that you
+
+107
+00:03:46,770 --> 00:03:48,990
+can kind of pick up what you
+
+108
+00:03:48,990 --> 00:03:50,670
+need to do so that you'll get
+
+109
+00:03:50,670 --> 00:03:53,760
+feedback from from this first
+
+110
+00:03:53,609 --> 00:03:55,289
+The next one is the summative
+
+111
+00:03:53,760 --> 00:03:55,620
+kind of dry run and assignments,
+
+112
+00:03:55,289 --> 00:03:56,579
+assignment. So this is the first
+
+113
+00:03:55,950 --> 00:03:56,910
+but it's optional.
+
+114
+00:03:56,579 --> 00:03:57,599
+summative assignment and it's
+
+115
+00:03:57,599 --> 00:03:58,649
+designing the star user
+
+116
+00:03:58,649 --> 00:04:00,869
+interface. So star user
+
+117
+00:04:00,869 --> 00:04:02,249
+interfaces were really where all
+
+118
+00:04:02,249 --> 00:04:05,189
+GUIs began. It's something that
+
+119
+00:04:05,189 --> 00:04:06,629
+was created out of Xerox PARC wh
+
+120
+00:04:06,629 --> 00:04:09,869
+ch was an awesome place and sti
+
+121
+00:04:09,869 --> 00:04:10,979
+l is. But it's an awesome pl
+
+122
+00:04:10,979 --> 00:04:12,869
+ce where there was a lot of exc
+
+123
+00:04:12,869 --> 00:04:14,549
+llent work going on through th
+
+124
+00:04:14,549 --> 00:04:16,469
+ 60s 70s and 80s. And indeed, th
+
+125
+00:04:16,469 --> 00:04:18,269
+s is really where where Stev
+
+126
+00:04:20,129 --> 00:04:21,389
+ Jobs took his inspiratio
+
+127
+00:04:21,389 --> 00:04:23,519
+ for the way that the the Mac sh
+
+128
+00:04:23,669 --> 00:04:28,829
+uld work. This kind of idea of
+
+129
+00:04:28,829 --> 00:04:30,359
+GUIs and how it all fits togethe
+
+130
+00:04:30,359 --> 00:04:31,799
+, it was really proved at Xe
+
+131
+00:04:31,799 --> 00:04:34,469
+ox PARC. And they did this oth
+
+132
+00:04:34,469 --> 00:04:35,669
+r thing that was really aweso
+
+133
+00:04:35,669 --> 00:04:36,359
+e, called dogfooding. 
+
+134
+00:04:36,359 --> 00:04:39,599
+hereby they would all use the 
+
+135
+00:04:39,659 --> 00:04:43,679
+tar user interface on all of th
+
+136
+00:04:44,189 --> 00:04:46,169
+ machines in their in Xerox PAR
+
+137
+00:04:46,439 --> 00:04:47,879
+ in their company. So therefore
+
+138
+00:04:48,119 --> 00:04:50,549
+ they proved it by actually usi
+
+139
+00:04:50,549 --> 00:04:53,249
+g it. So really good, really
+
+140
+00:04:53,249 --> 00:04:55,109
+good. article here on designing
+
+141
+00:04:55,109 --> 00:04:56,219
+it and something you should t
+
+142
+00:04:56,219 --> 00:04:57,809
+ke forward to your user testing
+
+143
+00:04:57,809 --> 00:04:58,979
+if you possibly can.
+
+144
+00:05:04,000 --> 00:05:09,460
+The final one is the second is
+
+145
+00:05:09,460 --> 00:05:10,930
+the second summative assignment.
+
+146
+00:05:11,170 --> 00:05:12,490
+And this is voice loops as
+
+147
+00:05:12,490 --> 00:05:13,780
+corporative aids in space
+
+148
+00:05:13,780 --> 00:05:15,580
+shuttle mission control. The
+
+149
+00:05:15,580 --> 00:05:16,840
+reason why I selected this one
+
+150
+00:05:16,870 --> 00:05:18,700
+is because I wanted you guys to
+
+151
+00:05:18,700 --> 00:05:21,100
+think that UX sounds sort of
+
+152
+00:05:21,100 --> 00:05:23,200
+nice and fluffy, and it feels
+
+153
+00:05:23,200 --> 00:05:25,270
+like apps, it feels like iOS, it
+
+154
+00:05:25,270 --> 00:05:26,380
+feels like Android, it feels
+
+155
+00:05:26,380 --> 00:05:28,330
+like that kind of thing. But
+
+156
+00:05:28,330 --> 00:05:30,520
+that's not all it is. UX is
+
+157
+00:05:30,520 --> 00:05:32,770
+really critically important in
+
+158
+00:05:33,520 --> 00:05:36,280
+lots of computational situations
+
+159
+00:05:36,280 --> 00:05:38,080
+and device based situations,
+
+160
+00:05:38,230 --> 00:05:40,660
+including the computational work
+
+161
+00:05:42,400 --> 00:05:45,250
+here, on the space shuttle. Also
+
+162
+00:05:45,250 --> 00:05:47,620
+on computational work, for
+
+163
+00:05:47,620 --> 00:05:48,460
+things like nuclear power
+
+164
+00:05:48,460 --> 00:05:49,810
+stations, and how the safety
+
+165
+00:05:49,810 --> 00:05:51,940
+critical systems such as fly by
+
+166
+00:05:51,940 --> 00:05:54,250
+wire aircraft can really screw
+
+167
+00:05:54,250 --> 00:05:56,320
+up. If we don't get the user
+
+168
+00:05:56,320 --> 00:05:57,820
+experience right in a faithful
+
+169
+00:05:57,820 --> 00:05:59,470
+way. And when I say user
+
+170
+00:05:59,470 --> 00:06:00,820
+experience We'll be coming to
+
+171
+00:06:00,820 --> 00:06:01,780
+this in the future, of course.
+
+172
+00:06:01,780 --> 00:06:03,100
+But when I say user experience,
+
+173
+00:06:03,100 --> 00:06:05,230
+I don't just mean, you know,
+
+174
+00:06:05,320 --> 00:06:07,150
+does it look nice, that's not
+
+175
+00:06:07,150 --> 00:06:09,190
+the whole point. User Experience
+
+176
+00:06:09,190 --> 00:06:11,140
+is about the full experience of
+
+177
+00:06:11,140 --> 00:06:12,610
+the user, how the control flow
+
+178
+00:06:12,610 --> 00:06:16,480
+works, etc, etc. And even down
+
+179
+00:06:16,480 --> 00:06:18,790
+in devices to the way things
+
+180
+00:06:18,790 --> 00:06:20,200
+look and the way things feel,
+
+181
+00:06:20,200 --> 00:06:21,490
+because we have a tactile sense.
+
+182
+00:06:21,490 --> 00:06:23,110
+So we want to make sure that
+
+183
+00:06:23,110 --> 00:06:24,910
+this is an important, you know,
+
+184
+00:06:25,300 --> 00:06:26,680
+we want to make sure that we
+
+185
+00:06:26,680 --> 00:06:28,330
+don't get things wrong, even
+
+186
+00:06:28,330 --> 00:06:29,470
+outside, if you like, of the
+
+187
+00:06:29,470 --> 00:06:32,500
+software. So, there are a number
+
+188
+00:06:32,500 --> 00:06:33,790
+of apocryphal stories, you know,
+
+189
+00:06:33,910 --> 00:06:35,770
+one of them is that you'll see
+
+190
+00:06:35,770 --> 00:06:37,390
+some images of nuclear power
+
+191
+00:06:37,390 --> 00:06:38,860
+plants where they have different
+
+192
+00:06:39,070 --> 00:06:41,650
+beer taps on the top of each of
+
+193
+00:06:41,650 --> 00:06:44,140
+the control arms. And that's
+
+194
+00:06:44,140 --> 00:06:45,280
+because the control arms all
+
+195
+00:06:45,280 --> 00:06:46,390
+look the same. And so they
+
+196
+00:06:46,390 --> 00:06:48,010
+didn't know they couldn't
+
+197
+00:06:48,010 --> 00:06:49,240
+differentiate or remember which
+
+198
+00:06:49,240 --> 00:06:50,410
+one was which. So they put a
+
+199
+00:06:50,410 --> 00:06:52,240
+beer tap on it, or at least to
+
+200
+00:06:52,240 --> 00:06:53,350
+be a pull on it with a little
+
+201
+00:06:53,350 --> 00:06:54,940
+sign on each of them telling
+
+202
+00:06:54,940 --> 00:06:56,020
+them what they actually did,
+
+203
+00:06:56,260 --> 00:06:57,640
+after the event after the
+
+204
+00:06:57,640 --> 00:06:58,600
+nuclear power station has
+
+205
+00:06:58,600 --> 00:07:00,130
+actually gone into service.
+
+206
+00:07:00,340 --> 00:07:01,330
+Because the people who are
+
+207
+00:07:01,330 --> 00:07:02,770
+operating just remember it's too
+
+208
+00:07:02,770 --> 00:07:04,360
+complex, okay? They all look the
+
+209
+00:07:04,360 --> 00:07:07,090
+same. That's not what you want
+
+210
+00:07:07,090 --> 00:07:08,080
+when it comes to something
+
+211
+00:07:08,080 --> 00:07:09,820
+that's a safety critical as the
+
+212
+00:07:09,820 --> 00:07:11,320
+controls of a nuclear power
+
+213
+00:07:11,320 --> 00:07:13,330
+station, right. And you could
+
+214
+00:07:13,330 --> 00:07:15,130
+also say the same thing about
+
+215
+00:07:15,130 --> 00:07:24,490
+the the Airbus crash from Brazil
+
+216
+00:07:24,490 --> 00:07:27,970
+to Paris, whereby, in that
+
+217
+00:07:27,970 --> 00:07:32,320
+particular accident, you had the
+
+218
+00:07:32,320 --> 00:07:35,470
+ability for a pilot who was the
+
+219
+00:07:35,470 --> 00:07:37,570
+copilot to be doing one thing,
+
+220
+00:07:37,720 --> 00:07:38,950
+ie putting inputs into the
+
+221
+00:07:38,950 --> 00:07:40,450
+system which were going down,
+
+222
+00:07:40,660 --> 00:07:43,120
+and for another pilot to be
+
+223
+00:07:43,330 --> 00:07:45,100
+pulling back so that they would
+
+224
+00:07:45,100 --> 00:07:46,720
+go up. And of course, these two
+
+225
+00:07:46,720 --> 00:07:49,570
+things start to interact with
+
+226
+00:07:49,570 --> 00:07:51,610
+each other. They didn't think
+
+227
+00:07:52,060 --> 00:07:53,320
+when they designed the system,
+
+228
+00:07:53,470 --> 00:07:54,310
+that if somebody is already
+
+229
+00:07:54,310 --> 00:07:55,660
+putting control inputs in one
+
+230
+00:07:55,660 --> 00:07:57,100
+way that we should at least say
+
+231
+00:07:57,490 --> 00:07:58,420
+you're the one is barred from
+
+232
+00:07:58,420 --> 00:08:00,100
+doing it and you have to do
+
+233
+00:08:00,100 --> 00:08:00,880
+something else, you know, there
+
+234
+00:08:00,880 --> 00:08:02,590
+has to be a switch that changes
+
+235
+00:08:02,590 --> 00:08:04,240
+from one to the other. This is
+
+236
+00:08:04,240 --> 00:08:05,320
+because in typically in
+
+237
+00:08:05,320 --> 00:08:07,690
+aircraft, you would say, one
+
+238
+00:08:07,690 --> 00:08:09,730
+pilot would say I have control
+
+239
+00:08:09,730 --> 00:08:11,200
+and the other person say, yes,
+
+240
+00:08:11,200 --> 00:08:12,280
+you have control, that'd be a
+
+241
+00:08:12,280 --> 00:08:13,990
+confirmation, verbal
+
+242
+00:08:13,990 --> 00:08:16,060
+confirmation. But in situations
+
+243
+00:08:16,060 --> 00:08:17,050
+which are highly stressful,
+
+244
+00:08:17,050 --> 00:08:17,950
+where you're not sure what's
+
+245
+00:08:17,950 --> 00:08:20,620
+happening, those situations
+
+246
+00:08:20,620 --> 00:08:22,180
+sometimes get missed, okay,
+
+247
+00:08:22,180 --> 00:08:23,260
+because it's stressful we're
+
+248
+00:08:23,260 --> 00:08:24,910
+people. So therefore, it's a
+
+249
+00:08:24,910 --> 00:08:26,980
+good idea to have user
+
+250
+00:08:26,980 --> 00:08:28,450
+experience designers in there as
+
+251
+00:08:28,450 --> 00:08:29,410
+well to make sure that the
+
+252
+00:08:29,410 --> 00:08:30,940
+safety critical systems work.
+
+253
+00:08:35,430 --> 00:08:36,780
+So how are we going to approach
+
+254
+00:08:36,780 --> 00:08:39,330
+these? Well, the thing that you
+
+255
+00:08:39,330 --> 00:08:40,710
+need to think about is it's not
+
+256
+00:08:40,710 --> 00:08:43,350
+a summary of the paper because I
+
+257
+00:08:43,350 --> 00:08:44,430
+can read it and get a summary.
+
+258
+00:08:44,430 --> 00:08:46,650
+What I want is your insights in
+
+259
+00:08:46,650 --> 00:08:49,110
+the summary. So tell me why the
+
+260
+00:08:49,110 --> 00:08:51,000
+paper is important. Why should
+
+261
+00:08:51,000 --> 00:08:53,940
+What should I know and why is it
+
+262
+00:08:53,940 --> 00:08:56,520
+important. And how does this
+
+263
+00:08:56,520 --> 00:08:58,230
+paper affect our development?
+
+264
+00:08:58,260 --> 00:08:59,580
+What insights does the paper
+
+265
+00:08:59,580 --> 00:09:01,560
+have and How do they affect us?
+
+266
+00:09:01,710 --> 00:09:02,760
+Can we use the paper to our
+
+267
+00:09:02,760 --> 00:09:04,320
+advantage? The reason why we ask
+
+268
+00:09:04,320 --> 00:09:06,180
+these questions is because these
+
+269
+00:09:06,180 --> 00:09:07,500
+are the kind of things that your
+
+270
+00:09:07,500 --> 00:09:09,330
+bosses will need you to answer.
+
+271
+00:09:09,690 --> 00:09:12,180
+They are not UX experts, they
+
+272
+00:09:12,180 --> 00:09:13,440
+are not research and development
+
+273
+00:09:13,470 --> 00:09:15,090
+experts like you are going to be
+
+274
+00:09:15,090 --> 00:09:16,290
+when you get into their company,
+
+275
+00:09:16,650 --> 00:09:18,270
+they will ask you for a brief on
+
+276
+00:09:18,270 --> 00:09:20,040
+a paper, they expect you to give
+
+277
+00:09:20,040 --> 00:09:22,440
+the value added. They can read
+
+278
+00:09:22,440 --> 00:09:23,490
+the paper, they're smart enough,
+
+279
+00:09:23,490 --> 00:09:25,140
+they're your boss, right? What
+
+280
+00:09:25,140 --> 00:09:26,700
+you need to give them is your
+
+281
+00:09:26,700 --> 00:09:28,710
+expertise which your training
+
+282
+00:09:28,710 --> 00:09:30,390
+which they haven't had. And you
+
+283
+00:09:30,390 --> 00:09:32,190
+can only do that by knowing the
+
+284
+00:09:32,190 --> 00:09:35,280
+area and be able to synthesise
+
+285
+00:09:35,280 --> 00:09:36,750
+information from other parts of
+
+286
+00:09:36,750 --> 00:09:39,060
+your knowledge with this
+
+287
+00:09:39,360 --> 00:09:40,440
+knowledge of the paper that
+
+288
+00:09:40,440 --> 00:09:42,180
+you're reading into something
+
+289
+00:09:42,180 --> 00:09:44,820
+that's useful to those to those
+
+290
+00:09:46,050 --> 00:09:47,430
+people, those technical people,
+
+291
+00:09:47,430 --> 00:09:50,280
+those business people. So
+
+292
+00:09:52,470 --> 00:09:54,240
+summarising the paper you need
+
+293
+00:09:54,240 --> 00:09:55,710
+to do a little bit of that but
+
+294
+00:09:55,710 --> 00:09:57,150
+that is not all you need to do.
+
+295
+00:09:57,150 --> 00:09:58,350
+You need to analyse it you need
+
+296
+00:09:58,350 --> 00:10:00,060
+to evaluate it to to come up
+
+297
+00:10:00,060 --> 00:10:02,580
+with With some 250 words, so
+
+298
+00:10:02,580 --> 00:10:05,820
+it's very brief insight. Now,
+
+299
+00:10:05,880 --> 00:10:07,680
+you don't need to focus on the
+
+300
+00:10:07,680 --> 00:10:09,090
+whole paper, you can give a
+
+301
+00:10:09,090 --> 00:10:10,320
+brief overview and then say,
+
+302
+00:10:10,440 --> 00:10:11,610
+this is the most important thing
+
+303
+00:10:11,610 --> 00:10:13,830
+for us this bit and ignore the
+
+304
+00:10:13,830 --> 00:10:16,170
+rest. That's okay. It's not you
+
+305
+00:10:16,170 --> 00:10:17,550
+can't say everything in 250
+
+306
+00:10:17,550 --> 00:10:19,500
+words, you need to be able to
+
+307
+00:10:19,500 --> 00:10:21,720
+understand what is important for
+
+308
+00:10:21,720 --> 00:10:24,180
+you and for your company and
+
+309
+00:10:24,180 --> 00:10:26,610
+therefore summarise it to that
+
+310
+00:10:28,320 --> 00:10:31,320
+to that company, okay, outcome.
+
+311
+00:10:32,160 --> 00:10:35,220
+So, I think that the important
+
+312
+00:10:35,220 --> 00:10:38,640
+thing here is that there is a
+
+313
+00:10:38,640 --> 00:10:40,020
+skill to summarising a paper.
+
+314
+00:10:40,980 --> 00:10:42,090
+But you I need to add the
+
+315
+00:10:42,090 --> 00:10:43,890
+analysis in the evaluation. You
+
+316
+00:10:43,890 --> 00:10:45,150
+need to come up with your 250
+
+317
+00:10:45,150 --> 00:10:47,070
+words as an industry standard.
+
+318
+00:10:48,240 --> 00:10:49,380
+But you need to add your own
+
+319
+00:10:49,380 --> 00:10:52,140
+insight you need to add your own
+
+320
+00:10:53,970 --> 00:10:55,650
+understanding to this kind of
+
+321
+00:10:55,650 --> 00:10:57,840
+work so that the people who have
+
+322
+00:10:57,840 --> 00:10:59,640
+employed you get the value added
+
+323
+00:10:59,640 --> 00:11:01,440
+of your expertise, what you're
+
+324
+00:11:01,440 --> 00:11:03,150
+trying to say is, I'm an expert.
+
+325
+00:11:03,300 --> 00:11:05,010
+And I'm going to tell you about
+
+326
+00:11:05,010 --> 00:11:06,540
+this particular paper within the
+
+327
+00:11:06,540 --> 00:11:08,610
+light of my expertise. That's
+
+328
+00:11:08,610 --> 00:11:09,660
+what we're trying to get to.
+
+329
+00:11:09,930 --> 00:11:10,710
+It's not enough to just
+
+330
+00:11:10,710 --> 00:11:15,360
+summarise it. So like I say, in,
+
+331
+00:11:15,510 --> 00:11:17,070
+you know, you interpret the
+
+332
+00:11:17,070 --> 00:11:18,660
+paper, you add your insight,
+
+333
+00:11:18,660 --> 00:11:20,790
+your expertise, in this context,
+
+334
+00:11:20,790 --> 00:11:22,140
+it's about the UX course. So you
+
+335
+00:11:22,140 --> 00:11:24,090
+add your expertise in you being
+
+336
+00:11:24,090 --> 00:11:26,730
+UX, you might draw in bits from
+
+337
+00:11:26,730 --> 00:11:27,870
+the other courses that you've
+
+338
+00:11:27,870 --> 00:11:30,450
+taken, that's also perfectly
+
+339
+00:11:30,450 --> 00:11:32,280
+acceptable to make those links
+
+340
+00:11:32,310 --> 00:11:33,690
+and synthesise that information
+
+341
+00:11:33,870 --> 00:11:36,060
+into this particular work. Okay.
+
+342
+00:11:39,450 --> 00:11:40,650
+It's difficult to not just
+
+343
+00:11:40,680 --> 00:11:42,120
+produce a summary so I suggest
+
+344
+00:11:42,120 --> 00:11:43,470
+you get one of your friends to
+
+345
+00:11:43,470 --> 00:11:45,150
+read over it, see whether they
+
+346
+00:11:45,150 --> 00:11:46,350
+think it's a summary or see
+
+347
+00:11:46,350 --> 00:11:47,310
+whether they think there's some
+
+348
+00:11:47,310 --> 00:11:48,870
+value added in there as well.
+
+349
+00:11:48,930 --> 00:11:51,060
+Okay. Think to yourself, could
+
+350
+00:11:51,060 --> 00:11:52,800
+anybody have just read this
+
+351
+00:11:52,800 --> 00:11:56,760
+paper and then summarise it? Is
+
+352
+00:11:56,760 --> 00:11:59,130
+my 250 words could anybody have
+
+353
+00:11:59,130 --> 00:12:00,840
+written them that read the paper
+
+354
+00:12:00,900 --> 00:12:02,100
+and write my 250 words. If
+
+355
+00:12:02,100 --> 00:12:04,380
+that's true, your 250 words
+
+356
+00:12:04,380 --> 00:12:07,080
+aren't correct. If it isn't true
+
+357
+00:12:07,080 --> 00:12:08,490
+if you if you actually think so
+
+358
+00:12:08,490 --> 00:12:09,690
+far, no, actually, there's lots
+
+359
+00:12:09,690 --> 00:12:10,560
+of different bits that I've
+
+360
+00:12:10,560 --> 00:12:11,490
+pulled from different areas in
+
+361
+00:12:11,490 --> 00:12:14,040
+it. That's what we want. Also,
+
+362
+00:12:14,070 --> 00:12:16,200
+make sure you reference things.
+
+363
+00:12:16,320 --> 00:12:18,210
+Okay? Make sure that you take
+
+364
+00:12:18,240 --> 00:12:20,190
+other sources and reference them
+
+365
+00:12:20,190 --> 00:12:21,840
+in your work. I say three or
+
+366
+00:12:21,840 --> 00:12:23,940
+four sources of you can have
+
+367
+00:12:23,940 --> 00:12:25,200
+some informal sources, you can
+
+368
+00:12:25,200 --> 00:12:26,400
+have more formal sources like
+
+369
+00:12:26,400 --> 00:12:28,080
+papers, put them into your work.
+
+370
+00:12:28,170 --> 00:12:30,150
+So it allows you to say why you
+
+371
+00:12:30,150 --> 00:12:31,710
+think something why you've said
+
+372
+00:12:31,710 --> 00:12:33,840
+something, typically, you'd
+
+373
+00:12:33,840 --> 00:12:36,090
+write the 250 words, and then
+
+374
+00:12:36,090 --> 00:12:37,260
+you go back and put in the
+
+375
+00:12:37,260 --> 00:12:39,780
+references where you think the
+
+376
+00:12:39,780 --> 00:12:41,550
+reference backs up what you've
+
+377
+00:12:41,580 --> 00:12:44,160
+said, it kind of tells people
+
+378
+00:12:44,160 --> 00:12:46,290
+why you think something with
+
+379
+00:12:46,290 --> 00:12:49,560
+cold hard facts. Okay? Not just
+
+380
+00:12:49,590 --> 00:12:50,910
+Oh, I thought of it one day and
+
+381
+00:12:50,910 --> 00:12:52,410
+so that's, that's why I wrote
+
+382
+00:12:52,410 --> 00:12:53,100
+it. Okay.
+
+383
+00:12:55,760 --> 00:12:57,170
+As I said previously in the
+
+384
+00:12:57,200 --> 00:12:59,540
+welcome. late marks the
+
+385
+00:12:59,540 --> 00:13:01,460
+university rules apply. So let's
+
+386
+00:13:01,460 --> 00:13:03,110
+not be thinking that we can do
+
+387
+00:13:03,110 --> 00:13:05,540
+anything about those late marks.
+
+388
+00:13:06,620 --> 00:13:08,720
+You know, it all goes into the
+
+389
+00:13:08,720 --> 00:13:10,010
+university systems and it's
+
+390
+00:13:10,010 --> 00:13:11,480
+really out of our hands as soon
+
+391
+00:13:11,480 --> 00:13:12,590
+as those marks come in there.
+
+392
+00:13:13,370 --> 00:13:15,770
+And the marking rubric, you can
+
+393
+00:13:15,770 --> 00:13:17,300
+see this online, and it's the
+
+394
+00:13:17,300 --> 00:13:19,610
+only thing that the TAs get to
+
+395
+00:13:19,610 --> 00:13:21,560
+look at, including, there's no
+
+396
+00:13:21,680 --> 00:13:25,430
+hidden way to mark an
+
+397
+00:13:26,000 --> 00:13:27,860
+assignment, all the market
+
+398
+00:13:27,860 --> 00:13:29,600
+instructions are available for
+
+399
+00:13:29,600 --> 00:13:32,300
+you to see and for the TA is to
+
+400
+00:13:32,300 --> 00:13:36,290
+use to mark with. Okay, so you
+
+401
+00:13:36,290 --> 00:13:38,360
+need 35% for structure and
+
+402
+00:13:38,780 --> 00:13:40,250
+argument, knowledge and
+
+403
+00:13:40,250 --> 00:13:42,170
+understanding 35% and original
+
+404
+00:13:42,170 --> 00:13:45,380
+thought 30% Okay, so that's
+
+405
+00:13:45,380 --> 00:13:46,940
+where we're going going for for
+
+406
+00:13:46,940 --> 00:13:49,010
+this. And, and you can see what
+
+407
+00:13:49,010 --> 00:13:50,480
+those things mean what it means
+
+408
+00:13:50,480 --> 00:13:53,300
+to get, you know, a 35% as
+
+409
+00:13:53,300 --> 00:13:55,670
+opposed to a 5% in structure and
+
+410
+00:13:55,700 --> 00:13:58,280
+argument on the website. So all
+
+411
+00:13:58,280 --> 00:14:00,530
+that's open. You can also see it
+
+412
+00:14:00,530 --> 00:14:02,150
+in your Turn-It-In submission,
+
+413
+00:14:02,150 --> 00:14:03,260
+but it's all there on the
+
+414
+00:14:03,260 --> 00:14:04,670
+website. So there's nothing
+
+415
+00:14:04,670 --> 00:14:06,320
+hidden from you, everything is
+
+416
+00:14:06,320 --> 00:14:09,110
+explicit. You should be
+
+417
+00:14:09,140 --> 00:14:11,510
+expecting to get the marking and
+
+418
+00:14:11,510 --> 00:14:14,900
+feedback within two weeks. So
+
+419
+00:14:14,900 --> 00:14:16,070
+you can do better in the next
+
+420
+00:14:16,070 --> 00:14:17,360
+one. So that's why I would
+
+421
+00:14:17,360 --> 00:14:18,890
+suggest that you kind of stages
+
+422
+00:14:18,890 --> 00:14:20,270
+these every two weeks do or
+
+423
+00:14:20,270 --> 00:14:21,680
+maybe or when you get the marks
+
+424
+00:14:21,680 --> 00:14:26,720
+back do one so that by the by
+
+425
+00:14:26,720 --> 00:14:27,950
+the time you get to the kind of
+
+426
+00:14:27,950 --> 00:14:28,790
+third one, you've had the
+
+427
+00:14:28,790 --> 00:14:30,170
+experience of doing too and you
+
+428
+00:14:30,170 --> 00:14:31,460
+can hopefully get better and
+
+429
+00:14:31,460 --> 00:14:34,460
+better marks as you go on. We've
+
+430
+00:14:34,460 --> 00:14:36,020
+also got real examples from
+
+431
+00:14:36,020 --> 00:14:37,310
+previous years. These are all
+
+432
+00:14:37,310 --> 00:14:38,780
+online as well so you can see
+
+433
+00:14:38,780 --> 00:14:40,730
+what the best look like from
+
+434
+00:14:40,730 --> 00:14:42,890
+previous years. The thing you
+
+435
+00:14:42,890 --> 00:14:44,420
+should also know about both the
+
+436
+00:14:44,420 --> 00:14:47,030
+assignments and the and the
+
+437
+00:14:47,030 --> 00:14:52,310
+exam. I mark them based on what
+
+438
+00:14:52,310 --> 00:14:55,880
+I think is appropriate for you,
+
+439
+00:14:56,000 --> 00:14:58,220
+what's the correct Mark? Okay.
+
+440
+00:14:59,060 --> 00:15:01,070
+I'm not trying to be harsh I'm
+
+441
+00:15:01,070 --> 00:15:03,590
+not trying to be easy. I'm
+
+442
+00:15:03,590 --> 00:15:05,150
+trying to be dispassionate. I'm
+
+443
+00:15:05,150 --> 00:15:06,950
+trying to make sure that, that
+
+444
+00:15:06,950 --> 00:15:09,410
+what you're writing here is what
+
+445
+00:15:09,440 --> 00:15:11,690
+both I would expect. But also
+
+446
+00:15:13,100 --> 00:15:15,380
+make sure that for other people,
+
+447
+00:15:15,500 --> 00:15:17,630
+they've, you know, if they've
+
+448
+00:15:17,630 --> 00:15:19,820
+written a really good, excellent
+
+449
+00:15:19,820 --> 00:15:20,840
+piece of work, they should be
+
+450
+00:15:20,840 --> 00:15:21,830
+getting better marks than you,
+
+451
+00:15:21,830 --> 00:15:23,450
+right? I mean, if you haven't
+
+452
+00:15:23,450 --> 00:15:26,450
+done that, okay, so I'm not
+
+453
+00:15:26,450 --> 00:15:27,560
+trying, I'm trying to be as
+
+454
+00:15:27,560 --> 00:15:28,790
+objective and dispassionate
+
+455
+00:15:28,790 --> 00:15:29,840
+about this as possible in that
+
+456
+00:15:29,840 --> 00:15:31,070
+this means that it's possible
+
+457
+00:15:31,070 --> 00:15:33,680
+for people to get 100% there's
+
+458
+00:15:33,680 --> 00:15:37,160
+no 95% or 99% because nothing's
+
+459
+00:15:37,160 --> 00:15:40,490
+perfect or 90%. You can get 100%
+
+460
+00:15:40,520 --> 00:15:42,980
+in these assignments. Last year
+
+461
+00:15:42,980 --> 00:15:45,110
+in the exam, I had two people no
+
+462
+00:15:45,110 --> 00:15:47,450
+had one person who got 100% in
+
+463
+00:15:47,450 --> 00:15:49,340
+the exam, I could not find a
+
+464
+00:15:49,340 --> 00:15:51,590
+way. I could not find anything
+
+465
+00:15:51,590 --> 00:15:53,270
+wrong with it. Okay, they got
+
+466
+00:15:53,270 --> 00:15:55,970
+100%. Likewise, though, for the
+
+467
+00:15:55,970 --> 00:15:57,290
+assignments and for the exams
+
+468
+00:15:57,350 --> 00:15:59,810
+you also can easily get 10's
+
+469
+00:16:00,470 --> 00:16:02,210
+Okay, it's very difficult unless
+
+470
+00:16:02,210 --> 00:16:03,680
+you don't turn up to get zero,
+
+471
+00:16:03,830 --> 00:16:04,940
+it's very difficult if you
+
+472
+00:16:05,060 --> 00:16:06,830
+submit an assignment that's
+
+473
+00:16:06,830 --> 00:16:08,060
+actually got words in it, that
+
+474
+00:16:08,060 --> 00:16:09,920
+makes sense in some way. But
+
+475
+00:16:09,920 --> 00:16:10,940
+you're going to get more than
+
+476
+00:16:10,940 --> 00:16:14,180
+zero, but it could happen. So,
+
+477
+00:16:14,510 --> 00:16:16,640
+just be mindful of the fact that
+
+478
+00:16:16,640 --> 00:16:17,900
+if you put in a good effort and
+
+479
+00:16:17,900 --> 00:16:19,250
+you do the work, you'll get the
+
+480
+00:16:19,250 --> 00:16:21,920
+marks. There's no scaling,
+
+481
+00:16:21,920 --> 00:16:23,480
+weighting or anything else.
+
+482
+00:16:23,510 --> 00:16:25,430
+Okay? You get the marks if you
+
+483
+00:16:25,430 --> 00:16:28,910
+do good work. Okay, and again,
+
+484
+00:16:28,940 --> 00:16:32,240
+we don't so hopefully, the next
+
+485
+00:16:32,240 --> 00:16:33,770
+lecture that that you should be
+
+486
+00:16:33,770 --> 00:16:34,850
+attending certainly in the next
+
+487
+00:16:34,850 --> 00:16:36,770
+lecture, that I'll be giving the
+
+488
+00:16:36,770 --> 00:16:37,850
+first lecture for this course is
+
+489
+00:16:37,850 --> 00:16:40,070
+a face to face lecture now that
+
+490
+00:16:40,070 --> 00:16:42,200
+will either be via zoom or by
+
+491
+00:16:42,860 --> 00:16:45,020
+one of your other connection
+
+492
+00:16:45,200 --> 00:16:47,540
+tools. Or it might even be who
+
+493
+00:16:47,540 --> 00:16:50,750
+knows, actually co present in a
+
+494
+00:16:50,780 --> 00:16:52,010
+lecture theatre, you never know!
+
